@@ -201,7 +201,6 @@
   height: 100%;
   display: flex;
   flex-direction: column;
-  align-items: center;
   background-image: url(/images/background_reservation.svg);
   background-color: #d9e7ff;
   background-position: center;
@@ -210,7 +209,7 @@
 }
 
 .reservation__title {
-  margin: 100px 0 0;
+  margin: 100px auto 0;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
